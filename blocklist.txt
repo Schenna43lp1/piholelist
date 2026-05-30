@@ -47,7 +47,7 @@ adnxs.com
 app.elf.leandergames.com
 allianceservices.im
 ballyinteractive.com
-betsoftgaming.com
+betsoftgaming.com        
 bosurl.net
 casinocontroller.com
 casinomodule.com
@@ -2576,3 +2576,5 @@ yggdrasilgaming.com
 ||zenitbet.com^
 ||zetpoker.eu^
 ||zodiacu.com^
+firebaselogging-pa.googleapis.com
+firebase-settings.crashlytics.com
