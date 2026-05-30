@@ -34,6 +34,8 @@ nexusrules.officeapps.live.com
 fr.resolver.msg.global.xiaomi.net
 cdn.nexx360-static.io
 pdw-usr.userreport.com
+pdw-usr.userreport.com
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 ---------------------------------
 google
 ---------------------------------
