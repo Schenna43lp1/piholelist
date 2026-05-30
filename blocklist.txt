@@ -11,3 +11,8 @@ adblock.telemetry.getadblock.com
 msftenterprise.sc.omtrdc.net
 csi.gstatic.com
 deff.nelreports.net
+report.error-report.com
+error-report.com
+notify.bugsnag.com
+firebaselogging-pa.googleapis.com
+firebase-settings.crashlytics.com
